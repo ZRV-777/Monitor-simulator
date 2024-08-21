@@ -1,0 +1,5 @@
+G:/Develop/modul_26_task_3/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Develop/modul_26_task_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+G:/Develop/modul_26_task_3/cmake-build-debug/src/CMakeFiles/modul_26_task_3.dir
+G:/Develop/modul_26_task_3/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+G:/Develop/modul_26_task_3/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
